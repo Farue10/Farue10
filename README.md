@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I'm Omar Faruqe
+#### Front End Developer
+![Front End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Farue10/Farue10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a MERN Stack junior web developer with a knack for crafting dynamic and user-centric web applications. Proficient in React for frontend development, Node.js and Express for backend functionalities, and MongoDB for database management. 
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS/TAWLIND CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on A Front-End-Developer with MERN stack 
+- 🌱 I’m currently learning Proficient in React for frontend development, Node.js and Express for backend functionalities, and MongoDB for database management.  
+- 👯 I’m looking to collaborate on To connect with follow developer and explore opportunities for collaborative open source project  
+- 🤔 I’m looking for help with To make  a positive impact by using my web development skills to support. 
+- ⚡ Fun fact: As a junior web developer, each new skill and concept you learn contributes to this collaborative web development ecosystem, enriching your ability to contribute to various parts of a website in the future. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Farue10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Faruqe10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Omar Faruqe)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farue10&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Farue10)  
+
