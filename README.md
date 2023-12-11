@@ -5,7 +5,7 @@
 
 I'm a MERN Stack junior web developer with a knack for crafting dynamic and user-centric web applications. Proficient in React for frontend development, Node.js and Express for backend functionalities, and MongoDB for database management. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS/TAWLIND CSS/FIREBASE/EXPRESS JS/NODE JS/MONGO DB/NEXT JS
+Skills:  REACT / JS / HTML / CSS/TAWLIND CSS/FIREBASE/EXPRESS JS/NODE JS/MONGO DB/NEXT JS
 
 - 🔭 I’m currently working on A Front-End-Developer with MERN stack 
 - 🌱 I’m currently learning Proficient in React for frontend development, Node.js and Express for backend functionalities, and MongoDB for database management.  
