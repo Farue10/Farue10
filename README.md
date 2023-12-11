@@ -1,10 +1,11 @@
+![Front End Developer](https://media.licdn.com/dms/image/D4E16AQH_-JmGPsPKmw/profile-displaybackgroundimage-shrink_350_1400/0/1702282111513?e=1707955200&v=beta&t=WMtnKCpecbtxzsbBXry8WvHpIzsTLblwsPI1sidWLOU)
 ### Hi there 👋, I'm Omar Faruqe
 #### Front End Developer
-![Front End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I'm a MERN Stack junior web developer with a knack for crafting dynamic and user-centric web applications. Proficient in React for frontend development, Node.js and Express for backend functionalities, and MongoDB for database management. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS/TAWLIND CSS
+Skills: VUE JS / REACT / JS / HTML / CSS/TAWLIND CSS/FIREBASE/EXPRESS JS/NODE JS/MONGO DB/NEXT JS
 
 - 🔭 I’m currently working on A Front-End-Developer with MERN stack 
 - 🌱 I’m currently learning Proficient in React for frontend development, Node.js and Express for backend functionalities, and MongoDB for database management.  
@@ -15,7 +16,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/TAWLIND CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Farue10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Faruqe10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Omar Faruqe)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farue10&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farue10&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Farue10)  
 
