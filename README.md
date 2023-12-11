@@ -18,5 +18,10 @@ I'm a MERN Stack junior web developer with a knack for crafting dynamic and user
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farue10&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Farue10)  
+### My Activity:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=farue10&theme=algolia" alt="GitHub Streak" width="100%">
+
+
+</p>
 
