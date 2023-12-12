@@ -14,7 +14,7 @@ I'm a MERN Stack junior web developer with a knack for crafting dynamic and user
 - ⚡ Fun fact: As a junior web developer, each new skill and concept you learn contributes to this collaborative web development ecosystem, enriching your ability to contribute to various parts of a website in the future. 
 
 
-<a href="https://github.com/Farue10">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]</a>  <a href="https://www.linkedin.com/in/omar-faruqe-5a37132a3/">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]</a>  <a href="https://www.facebook.com/omar.faruqe.9277/">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]</a>
+<a href="https://github.com/Farue10"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  <a href="https://www.linkedin.com/in/omar-faruqe-5a37132a3/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>  <a href="https://www.facebook.com/omar.faruqe.9277/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farue10&show_icons=true&count_private=true)  
 
